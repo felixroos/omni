@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/eddyflux/omni/main/samples/chordian_",
+  "_base": "https://raw.githubusercontent.com/felixroos/omni/main/samples/chordian_",
   "omni_bd": "drum_bd.wav",
   "omni_rim": "drum_click.wav",
   "omni_hh": "drum_hihat.wav",
