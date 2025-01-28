@@ -1,0 +1,17 @@
+{
+  "_base": "https://raw.githubusercontent.com/eddyflux/omni/main/samples/chordian_",
+  "omni_bd": "drum_bd.wav",
+  "omni_rim": "drum_click.wav",
+  "omni_hh": "drum_hihat.wav",
+  "omni_rd": "drum_ride.wav",
+  "omni_oh": "drum_ride.wav",
+  "omni_sd": "drum_snare.wav",
+  "omni_bass": "drum_snare.wav",
+  "omni_bass_mod": "drum_snare.wav",
+  "omni_beep": "drum_snare.wav",
+  "omni_chord": "drum_snare.wav",
+  "omni_harp_base": "drum_snare.wav",
+  "omni_harp_mod": "drum_snare.wav",
+  "omni_harp": "drum_snare.wav",
+  "omni_keyboard": "drum_snare.wav"
+}
